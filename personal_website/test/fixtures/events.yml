@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  host: 
+  time: 2016-10-04 17:41:23
+  location: MyString
+  interest: false
+  details: MyString
+  attending: 
+
+two:
+  title: MyString
+  host: 
+  time: 2016-10-04 17:41:23
+  location: MyString
+  interest: false
+  details: MyString
+  attending: 
