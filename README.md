@@ -1,2 +1,2 @@
 # My-Personal-Website
-This is my personal website, It is going to be but using rails, javascript, HTML5, CSS. \
+This is my personal website for EventPull, It is being built using rails, javascript, HTML5, CSS and bootstrap. It is going to be mobile first, and it will have cross browser compatibility. 
